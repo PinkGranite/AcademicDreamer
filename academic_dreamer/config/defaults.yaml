@@ -1,0 +1,19 @@
+# AcademicDreamer Configuration
+
+generation:
+  model: "google/gemini-3.1-flash-image-preview"
+  max_retries: 3
+  retry_delay: 2.0
+
+review:
+  default_iterations: 2
+  default_threshold: 0.7
+  max_iterations: 5
+
+output:
+  default_formats: ["png"]
+  pdf_dpi: 300
+  output_dir: "./output"
+
+venues:
+  search_order: ["cvpr", "iclr", "neurips", "nature", "_template"]

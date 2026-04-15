@@ -1,0 +1,3 @@
+CVPR (Computer Vision and Pattern Recognition) conference style.
+
+High-fidelity scientific schematic, technical vector illustration, clean white background, distinct boundaries. Professional, minimal, high-contrast design. Flat vector graphics with distinct geometric shapes, clean thin outlines, and soft pastel fills (Azure Blue, Slate Grey, Coral Orange). Technical, precise, academic textbook quality. NOT hand-drawn, NOT photorealistic, NOT 3D render.

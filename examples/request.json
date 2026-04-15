@@ -1,0 +1,10 @@
+{
+    "idea": "A transformer architecture for image segmentation with attention mechanisms",
+    "style": "CVPR 2024",
+    "target_type": "architecture_diagram",
+    "control": {
+        "max_iterations": 2,
+        "output_formats": ["png"],
+        "quality_threshold": 0.7
+    }
+}

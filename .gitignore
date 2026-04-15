@@ -205,3 +205,20 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Other
+references/
+
+# Agent runtime files
+plan.md
+
+# Generated output
+output/
+assets/*.png
+!assets/academic_dreamer_diagram.png
+experiments/
+
+# Virtual environment
+.venv/
+
+.claude/
